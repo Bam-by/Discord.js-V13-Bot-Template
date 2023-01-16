@@ -2,7 +2,7 @@
 Plantilla de Bot, Creado por zNovoid.
 
  <br>
-> <center>INFORMACIÓN</center>
+> <center>Información</center>
 > <center>Plantilla para bot de discord.js v13<br></center>
  <br>
 
